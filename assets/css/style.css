@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 12px;
+}
+canvas{
+    text-align: center;
+    border: 1px solid #000;
+}
+div{
+    color: rgb(44, 139, 44);
+    text-shadow: 2px 1px 3px #000;
+    /* horiz-shadow, vert-shadow, borrao-radius, cor */
+    text-transform: uppercase;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
